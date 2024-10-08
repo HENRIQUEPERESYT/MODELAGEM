@@ -1,0 +1,10 @@
+                 Pesquisa na WEB
+
+Sobre: Autenticação e autorização: utilizar
+mecanismos (como OAuth, JWT) como consumidores de mensageria
+
+O que é?
+Como funciona?
+Qual produto "programa" que utiliza esse recurso?
+
+ENVIAR ARQUIVO NO GitHub
